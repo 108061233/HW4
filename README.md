@@ -19,4 +19,5 @@ The result is that the car will turn right and left to make the car face to tag 
 
 Note.
 Because my car is not perfect, there are some mistakes on calculating the speed.
-bbcar_rpc_for_code1.cpp and bbcar_rpc_for_code1.h is just for read in github, these are RRC code for Part1 code.
+bbcar_rpc_for_code1.cpp and bbcar_rpc_for_code1.h are just for read in github, these are RRC code for Part1 code.
+part2.py and part3.py are the openMV code for Part2 and Part3.
